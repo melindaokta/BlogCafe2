@@ -1,6 +1,6 @@
 # BlogCafé ☕️
 
-BlogCafé adalah blog tentang cafee
+BlogCafé adalah blog tentang cafee yang bagus
 
 `BlogCafé` allows users create accounts, create blog posts with multiple images upload feature, view all blog posts and view a single blog post content.
 
